@@ -9,3 +9,14 @@ class crymimi3{
 
 
 }
+
+class am021352{
+
+
+ void am(){
+
+ System.out.println("Bless u");
+
+ }
+
+}
